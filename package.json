@@ -1,0 +1,19 @@
+{
+  "name": "desafiopromise",
+  "version": "1.0.0",
+  "description": "Usando promises para ler um arquivo via File System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaSpinetti/promiseDesafio.git"
+  },
+  "author": "Ana Spinetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaSpinetti/promiseDesafio/issues"
+  },
+  "homepage": "https://github.com/AnaSpinetti/promiseDesafio#readme"
+}
